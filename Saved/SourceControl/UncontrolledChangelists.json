@@ -4,23 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/RacingGame/Framework/GM_RacingGame.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/RacingGame/CheckPoints/BP_Checkpoint.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/ZT/G3LHEKNUOTUJIDQHPUZ9XI.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/RacingGame/CameraShakes/CS_FastVehicle.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/L6/4PST4HNK9NPESB4MRQ90D1.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/5D/KNFO55MEC5F8UNV3NDVFW7.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/NewWorld.umap",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/Tennis.umap",
-				"C:/Users/KC/Documents/Unreal Projects/first/Content/Menu.umap"
-			]
+			"files": []
 		}
 	]
 }
